@@ -16,7 +16,7 @@ public class BibliotecaEjprueba1Juan {
         
         double descuento = libro.obtenerDescuento(15);
         System.out.println("Descuento..:"+descuento);
-        System.out.println("lalala");
+        System.out.println("Holy shit");
         
     }
     
